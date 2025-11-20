@@ -6,6 +6,7 @@
 Every week you receive your roster via Outlook email.  
 The company web timesheet requires you to manually color **1,440 individual 1-minute blocks per day** using a clunky HTML table.  
 Doing it by hand takes forever and is full of mistakes.
+
   <img width="1187" height="753" alt="image" src="https://github.com/user-attachments/assets/39af666c-e17d-47c2-bc96-2e0d6c8d8a66" />
 
   
