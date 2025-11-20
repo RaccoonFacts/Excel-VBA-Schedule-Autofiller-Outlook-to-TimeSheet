@@ -6,7 +6,9 @@
 Every week you receive your roster via Outlook email.  
 The company web timesheet requires you to manually color **1,440 individual 1-minute blocks per day** using a clunky HTML table.  
 Doing it by hand takes forever and is full of mistakes.
+  <img width="1187" height="753" alt="image" src="https://github.com/user-attachments/assets/39af666c-e17d-47c2-bc96-2e0d6c8d8a66" />
 
+  
 ### My Solution (What This Tool Does)
 1. **Copy the entire roster email** (Ctrl+A → Ctrl+C in Outlook)
  <img width="645" height="753" alt="image" src="https://github.com/user-attachments/assets/bd341509-5bde-47ae-b99c-7dcab855512f" />
@@ -23,7 +25,7 @@ Doing it by hand takes forever and is full of mistakes.
    - Breaks the day into every single minute (B6:B1445)
    <img width="1699" height="686" alt="image" src="https://github.com/user-attachments/assets/5aeb4d58-d0db-41be-accb-783c8c732d43" />
 
-   <img width="1187" height="753" alt="image" src="https://github.com/user-attachments/assets/39af666c-e17d-47c2-bc96-2e0d6c8d8a66" />
+ 
 
    - Applies the correct hex color to column E for every minute you’re working
 <img width="1256" height="753" alt="image" src="https://github.com/user-attachments/assets/891a4bc5-ada2-4568-af17-d728a994e6db" />
