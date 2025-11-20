@@ -61,5 +61,3 @@ Doing it by hand takes forever and is full of mistakes.
 7. Open your web timesheet → press F12 → paste into the color field
 
 → Done. Zero manual entries. Estimated time saved per week: 6 hours.
-
-### Folder Structure
