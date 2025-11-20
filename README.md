@@ -1,6 +1,6 @@
 # Excel VBA Schedule Auto-Filler: Outlook Email → Web Timesheet in Seconds
 
-**From painful 20–40 minute manual coloring → to a perfect timesheet with 3 clicks.**
+**From painful 40–60 minutes manual coloring → to a perfect timesheet with 3 clicks.**
 
 ### The Real Problem
 Every week you receive your roster via Outlook email.  
